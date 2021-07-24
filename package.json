@@ -1,0 +1,16 @@
+{
+  "name": "getvuedoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./getPdf.js",
+    "start-plus": "node ./getPdf_plus.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
